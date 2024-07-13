@@ -1,0 +1,6 @@
+/Users/anno/COMP6771/ass2/cmake-build-debug/CMakeFiles/catch2_main.dir
+/Users/anno/COMP6771/ass2/cmake-build-debug/CMakeFiles/filtered_string_view.dir
+/Users/anno/COMP6771/ass2/cmake-build-debug/CMakeFiles/filtered_string_view_test.dir
+/Users/anno/COMP6771/ass2/cmake-build-debug/CMakeFiles/test.dir
+/Users/anno/COMP6771/ass2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anno/COMP6771/ass2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

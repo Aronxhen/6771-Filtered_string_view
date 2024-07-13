@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "COMP6771_LAB_001",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "catch2_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-catch2_main-Debug-4491a3ff7b001afdceac.json",
+					"name" : "catch2_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filtered_string_view::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filtered_string_view-Debug-bcfa6628f576c8ad5507.json",
+					"name" : "filtered_string_view",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filtered_string_view_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filtered_string_view_test-Debug-640b74ff605123231d11.json",
+					"name" : "filtered_string_view_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/anno/COMP6771/ass2/cmake-build-debug",
+		"source" : "/Users/anno/COMP6771/ass2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

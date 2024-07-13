@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/anno/COMP6771/ass2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/anno/COMP6771/ass2/lib -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -o CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o -c /Users/anno/COMP6771/ass2/lib/catch2_main.cpp",
+  "file": "/Users/anno/COMP6771/ass2/lib/catch2_main.cpp",
+  "output": "CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o"
+},
+{
+  "directory": "/Users/anno/COMP6771/ass2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/anno/COMP6771/ass2/lib -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -o CMakeFiles/filtered_string_view.dir/src/filtered_string_view.cpp.o -c /Users/anno/COMP6771/ass2/src/filtered_string_view.cpp",
+  "file": "/Users/anno/COMP6771/ass2/src/filtered_string_view.cpp",
+  "output": "CMakeFiles/filtered_string_view.dir/src/filtered_string_view.cpp.o"
+},
+{
+  "directory": "/Users/anno/COMP6771/ass2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/anno/COMP6771/ass2/lib -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -o CMakeFiles/filtered_string_view_test.dir/src/filtered_string_view.test.cpp.o -c /Users/anno/COMP6771/ass2/src/filtered_string_view.test.cpp",
+  "file": "/Users/anno/COMP6771/ass2/src/filtered_string_view.test.cpp",
+  "output": "CMakeFiles/filtered_string_view_test.dir/src/filtered_string_view.test.cpp.o"
+}
+]
